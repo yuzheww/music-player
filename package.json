@@ -1,7 +1,7 @@
 {
   "name": "spark_music",
   "version": "0.1.0",
-  "homepage":"./",
+  "homepage": "./",
   "private": true,
   "dependencies": {
     "antd": "^3.24.2",
